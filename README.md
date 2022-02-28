@@ -9,25 +9,16 @@
 </p>
 <ol>
 
-<li><strong>أنشئ ملف Html</strong>
+<li>
+قم بعمل fork للـ repository
 
-<li><strong>استخدم العنصر &lt;p> لتغيير لون النص واضافة لون للخلفية باستخدام inline style</strong>
-</li>
-</ol>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<li>انسخ الrepository على جهازك
+
+<li>افتح برنامج visual studio code وافتح مجلد الrepository
+
+<li>أنشئ ملف Html
+
+<li>استخدم العنصر &lt;p> لتغيير لون النص واضافة لون للخلفية باستخدام inline style
 <p>
 <p dir="rtl">
 </p>
